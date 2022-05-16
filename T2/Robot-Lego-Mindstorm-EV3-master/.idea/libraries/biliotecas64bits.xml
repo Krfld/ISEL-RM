@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="biliotecas64bits">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../biliotecas64bits" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../biliotecas64bits" recursive="false" />
+  </library>
+</component>
